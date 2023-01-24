@@ -1,4 +1,4 @@
-# coffee-shop-arabica
+# Coffee Shop - Arabica
 
 Simple Coffee Shop Website, inspired from:  https://preview.themeforest.net/item/lache-caf-and-coffee-shop-theme/full_screen_preview/42098949?_ga=2.155077116.598430147.1672604140-1746428800.1672604140
 
@@ -10,7 +10,7 @@ I can say I learned a lot but unfortunately, the webpage is still static and not
 
 * * *
 
-# How to Run:
+# Build Instructions
 
 In order to run the Website, please follow steps below:
   1. Download the Project to your local computer (No malicious files, don't worry:)).
@@ -25,7 +25,7 @@ You can also just watch the Demo.mov if you are not able to run the project.
 
 * * *
 
-# My next goals:
+# Next Goals
   - Learn Javascript
   - Apply Animations
   - Develop a Fully Responsive Website. 
