@@ -15,3 +15,7 @@ My next goals:
   - Apply Animations
   - Develop a Fully Responsive Website. 
   - Improve my skill and knowledge on PHP
+
+* * *
+
+If you have suggestions, please feel free to contribute, looking forward to practice and learn more.
