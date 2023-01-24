@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* ---------------------- Welcome Page ---------------------- */
+
+html{
+    scroll-behavior: smooth;
+}
+
+.welcome-page-container{
+    background-image: url("../../images/landing-page/welcome-page-background.png");
+    background-color: #FFF7E8;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+    padding: 0 2.8%;
+    padding-top: 5%;
+}
+
+.wp-logo{
+    height: 170px;
+    margin-bottom: 2%;
+}
+
+.wp-main-title, .wp-title-description{
+    text-align: center;
+    color: rgb(255, 255, 251);
+}
+
+.wp-main-title{
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.wp-title-description{
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.wp-description-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.view-our-menu button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 50px;
+    cursor: pointer;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    display: inline-block;
+    text-align: center;
+}
+
+.view-our-menu button{
+    background-color: transparent;
+    color: rgb(255, 255, 251);
+    border: 1px solid white;
+  }
+  
+.view-our-menu button:hover {
+    background-color: rgb(255, 255, 251);
+    color: black;
+  }

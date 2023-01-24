@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* ---------------------- Global ---------------------- */
+
+*{
+    font-family: 'Jost', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.primary-font{
+    font-family: 'EB Garamond', sans-serif;
+}
+
+/* ---------------------- About Us ---------------------- */
+
+html{
+    background-color: rgb(255, 255, 251);
+    scroll-behavior: smooth;
+}
+
+.AUB{
+    background-color: #FFF7E8;
+}
+
+
+/* ---------------------- Header Image ---------------------- */
+
+.AUB .background-image-container{
+    background-image: url("../images/about/about-banner.jpg");
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    margin: 0 2.8%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.AUB .about-us-heading-h1{
+    color: rgb(255, 255, 251);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 65px;
+    line-height: 1.23em;
+    font-weight: 600;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+/* ---------------------- Where It All Began Container ---------------------- */
+
+.AUB .ABC-container{
+    background-color: rgb(255, 255, 251);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2.8%;
+}
+
+.AUB .where-it-all-began-container{
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+
+.AUB .description-container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.AUB .img-container{
+    height: 535px;
+    width: 755px;
+}
+
+.AUB .img-container img{
+    width: 755px;
+    height: 100%;
+    object-fit: cover;    
+}
+
+.AUB .ABC-container .heading-h1{
+    color: #d96b1a;
+    font-size: 43px;
+    line-height: 1.12em;
+    font-weight: 600;
+    margin: 25px 0;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    padding: 0 15%;
+}
+
+.AUB .ABC-container .heading-h2{
+    font-size: 17px;
+    line-height: 1.41em;
+    font-weight: 400;
+    color: #8a7c78;
+    padding: 0 15%;
+}
+
+
+/* ---------------------- ABC Title Container ---------------------- */
+
+
+.AUB .ABC-title-container{
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: rgb(255, 255, 251);
+}
+
+.AUB .ABC-title-container .heading-h1{
+    color: #d96b1a;
+    font-size: 55px;
+    line-height: 1.09em;
+    font-weight: 600;
+    padding-bottom: 25px;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.AUB .ABC-title-container .heading-h2{
+    font-size: 17px;
+    line-height: 1.41em;
+    font-weight: 400;
+    color: #8a7c78;
+}
+
+/* ---------------------- Food - Coffee - Tea Cart ---------------------- */
+
+.AUB .food-tea-coffee-card{
+    background-color: rgb(255, 255, 251);
+    padding-bottom: 140px;
+}
+
+.AUB .card-item-container img{
+  height: 330px;
+  width: 445px;
+  transition: 0.4s all ease-in-out;
+  cursor: pointer;
+}
+
+.AUB .food-tea-coffee-card .heading-h1{
+  font-size: 55px;
+  font-weight: 600;
+  color: rgb(255, 255, 251);
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.AUB .card-item-container:hover img{
+  transform: scale(1.03);
+}
+
+/* ---------------------- Our Team Container + Grid ---------------------- */
+
+.AUB .meet-our-team-container{
+    padding-bottom: 140px;
+}
+
+.AUB .our-team-grid-container{
+    background-color: rgb(255, 255, 251);
+    padding-bottom: 140px;
+}
+
+.AUB .our-team-grid-container .grid-column-1{
+    padding-bottom: 100px;
+}
+
+.AUB .team-column-grid{
+    background-color: rgb(255, 255, 251);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.AUB .team-member-image{
+    width: 325px;
+    height: 475px;
+    overflow: hidden;
+}
+
+.AUB .team-member-image img{
+    width: 100%;
+    height: 100%;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    object-fit: cover;
+}
+  
+.AUB .team-member-image:hover img{
+    transform: scale(1.03);
+}
+
+.AUB .our-team-grid-container .heading-h1{
+    font-size: 25px;
+    line-height: 1.28em;
+    color: #855043;
+    font-weight: 500;
+    margin-top: 12px;
+}
+
+.AUB .our-team-grid-container .heading-h2{
+    font-size: 17px;
+    line-height: 1.41em;
+    font-weight: 400;
+    color: #8a7c78;
+    margin-top: 5px;
+}
+
+/* ---------------------- Banner Seperator ---------------------- */
+
+.AUB .coffee-banner-seperator{
+    background-color: rgb(255, 255, 251);
+    padding: 0 2.8%;
+    height: 570px;
+}
+
+.AUB .coffee-banner-seperator img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
