@@ -10,7 +10,7 @@ I can say I learned a lot but unfortunately, the webpage is still static and not
 
 * * *
 
-# Build Instructions
+## Build Instructions
 
 In order to run the Website, please follow steps below:
   1. Download the Project to your local computer (No malicious files, don't worry:)).
@@ -25,7 +25,7 @@ You can also just watch the Demo.mov if you are not able to run the project.
 
 * * *
 
-# Next Goals
+## Next Goals
   - Learn Javascript
   - Apply Animations
   - Develop a Fully Responsive Website. 
