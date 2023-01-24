@@ -13,13 +13,13 @@ I can say I learned a lot but unfortunately, the webpage is still static and not
 ## Build Instructions
 
 In order to run the Website, please follow steps below:
-  1. Download the Project to your local computer (No malicious files, don't worry:)).
+  1. Download the Project to your local computer (**No malicious files, don't worry:)**).
   2. Install XAMPP or any other similar Web-Server. XAMPP is available on all three majot OS's, Windows, MAC and Linux. 
-  3. Copy/Move the Project to the Local Host folder of the Web Server. For example for XAMPP on MAC, you can find the folder in the following path: /Applications/XAMPP/xamppfiles/htdocs. On a Windows machine, the path to the file is: C:\xampp\apache\conf\extra\httpd-vhosts.
+  3. Copy/Move the Project to the Local Host folder of the Web Server. For example XAMPP on **MAC**, you can find the folder in the following path: */Applications/XAMPP/xamppfiles/htdocs*. On a **Windows** machine, the path to the file is: *C:\xampp\apache\conf\extra\httpd-vhosts*.
   4. Open your browser and type *localhost/coffeeshop*. 
   5. You should be directed to the Coffee Shop Landing Page. 
   
-[NOTE]
+**[NOTE]**
 
 You can also just watch the Demo.mov if you are not able to run the project.  
 
