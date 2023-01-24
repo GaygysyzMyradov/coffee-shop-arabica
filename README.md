@@ -21,7 +21,7 @@ In order to run the Website, please follow steps below:
   
 **[NOTE]**
 
-You can also just watch the [Demo Video](https://xmueducn-my.sharepoint.com/:v:/g/personal/cst1904908_xmu_edu_my/EdlsFx4-_npLtCBRzGYBDUUBj2-CXB8UuNoTZFYsIt9G_w?e=Qw5Fp5) if you are not able to run the project.  
+You can also just watch the [Demo Video](https://xmueducn-my.sharepoint.com/:v:/g/personal/cst1904908_xmu_edu_my/EdlsFx4-_npLtCBRzGYBDUUBj2-CXB8UuNoTZFYsIt9G_w?e=cNQATx) if you are unable to run the project.  
 
 * * *
 
