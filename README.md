@@ -6,7 +6,7 @@ My second website where I applied my new knowledge on CSS and HTMl, mainly the P
 
 coffee-shop-arabica is also back-end functional using PHP and MySQL. Although I got some help on this part of the project, I am looking forward to fully improve my skills on PHP as well. 
 
-I can say I learned a lot but unfortunately, the webpage is still static and not responsive and that is something I am planning to learn and implement. 
+I can say I learned a lot but unfortunately, the webpage is still static and not responsive and that is something I am planning to learn and implement in the near future.  
 
 * * *
 
