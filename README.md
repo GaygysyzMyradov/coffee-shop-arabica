@@ -19,9 +19,6 @@ In order to run the Website, please follow steps below:
   4. Open your browser and type *localhost/coffeeshop*. 
   5. You should be directed to the Coffee Shop Landing Page. 
   
-**[NOTE]**
-
-You can also just watch the [_demo video_](https://xmueducn-my.sharepoint.com/:v:/g/personal/cst1904908_xmu_edu_my/EdlsFx4-_npLtCBRzGYBDUUBj2-CXB8UuNoTZFYsIt9G_w?e=cNQATx) if you are unable to run the project.  
 
 * * *
 
